@@ -1,2 +1,2 @@
-github "bitmark-inc/tweetnacl-swiftwrap" ~> 1.0
+github "nahitheper/tweetnacl-swiftwrap" "master"
 github "pusher/NWWebSocket" ~> 0.5.3
