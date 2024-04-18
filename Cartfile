@@ -1,2 +1,2 @@
-github "nahitheper/tweetnacl-swiftwrap" "master"
+github "zeplin/tweetnacl-swiftwrap" "master"
 github "pusher/NWWebSocket" ~> 0.5.3
